@@ -4,8 +4,7 @@
 
 ## Introduction
 
-` ` `
-# -------------------------------------------------------------- #
+
 # Title: Listing 7
 # Description: A try-catch with manually raised errors
 # ChangeLog: (VMok, 11.29.2023, Created Log)
